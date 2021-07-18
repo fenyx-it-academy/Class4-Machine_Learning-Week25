@@ -1,5 +1,7 @@
 # Class4-Machine_Learning-Week25
 
+Hello Everyone, 
+
 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 We will use the linked dataset. We want you to set the 'RainToday' variable as the dependent variable and set up a model that predicts whether there will be rain or not. This model will be made using; 
